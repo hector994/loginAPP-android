@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginAPP</string>
+    <string name="Usuario_correo">Usuario o correo</string>
+    <string name="password">Password</string>
+    <string name="Button_Sign_in">Log in</string>
+    <string name="Loanding">Loading...</string>
+    <string name="WellCome">Bienvenido!!</string>
+    <string name="Or">O puedes</string>
+    <string name="Registro">Registrarte aqui</string>
+
+
+    <string name="RegistroPAge">Registrarte</string>
+    <string name="RegistroFin">Registrarse</string>
+    <string name="RepitePassword">Repite Password</string>
+
+</resources>
